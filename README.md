@@ -30,7 +30,9 @@ Deployed page link : https://swathivinod19.github.io/author-list/
 
 ## Screenshots
 
+![image](https://github.com/SwathiVinod19/author-list/assets/129353324/c92b708d-5f67-4507-9838-d586c8b6803e)
 
+![image](https://github.com/SwathiVinod19/author-list/assets/129353324/feae996a-c4fe-42c1-bcd4-dabb1a865194)
 
 ## Test
 No tests currently
