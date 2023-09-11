@@ -26,7 +26,8 @@ To install application locally, follow these steps:
 
 ## Link
 
-Deployed page link : 
+Deployed page link : https://swathivinod19.github.io/author-list/
+
 ## Screenshots
 
 
