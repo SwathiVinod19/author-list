@@ -9,7 +9,7 @@ const App = () => {
     age: "83 years" ,
     about: "He is a surgeon and a novelist who is best known for writing medical thrillers" ,
     iLike: "I like his ability to combine his medical knowledge with fantasy to make the public aware of technological possibilities, socio-ethical problems that comes with modern medicine.",
-    books: "Coma, Outbreak (Jack Stapleton series), Sphins" ,
+    books: "Coma, Outbreak (Jack Stapleton series), Sphinx" ,
     awards: "New York Times Best seller"
     },
     {picUrl : "https://i.pinimg.com/originals/cd/22/7d/cd227d9d243d45aca2cf0c15a9946a1b.jpg",
